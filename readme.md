@@ -2,13 +2,12 @@
 
 ## Inleiding
 
-Deze repository bevat oefeningen voor de controlflow constructies in Java.
-Neem eerst het hoofdstuk over controlflow door.
+Deze repository bevat oefeningen voor het werken met Arrays in Java.
+Neem eerst het hoofdstuk over arrays door.
 
-Je gaat oefenen met diverse constructies die de controlflow veranderen.
+Je gaat oefenen met het ophalen van values uit een Array. Dit kan zowel met hardcoded indexeren en met loops.
 
-Je ziet in src/main/java 5 classes. Je kunt eerste oefenen met de losse constructies.
-Voor het oplossen van de Bonus moet je meer dan 1 controlflow constructie gebruiken.
+Je ziet in src/main/java een Main class. Zorg dat in deze class de juiste String worden geprint.
 
 ## Voor je begint
 
@@ -40,6 +39,5 @@ Groene play-knop voor de `MainTest` class in src/test/java klikken en 'Run 'Main
 
 ## Opdracht
 
-In iedere class vind je verdere uitleg over de opdrachten. Doorloop de opgaves in volgorde (A, B, C, D en eventueel E).
-Zorg ervoor dat de code compileert en dat de testen slagen.
+Doorloop de opgaves en zorg dat de code compileert en dat de testen slagen.
 
